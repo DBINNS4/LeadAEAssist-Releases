@@ -1,0 +1,30 @@
+LeadAEAssist Bundled FFmpeg Runtime Dependency Inventory
+
+This file documents the additional FFmpeg-side runtime libraries that may be redistributed in packaged macOS builds under:
+
+  extra/ffmpeg/lib/
+
+Current bundled inventory:
+
+- libass.9.dylib
+- libharfbuzz.0.dylib
+- libfreetype.6.dylib
+- libfribidi.0.dylib
+- libunibreak.6.dylib
+- libpng16.16.dylib
+- libglib-2.0.0.dylib
+- libpcre2-8.0.dylib
+- libgraphite2.3.dylib
+- libintl.8.dylib
+
+These files are third-party runtime dependencies used by the bundled FFmpeg executable and are not part of the first-party proprietary LeadAEAssist license.
+
+The packaged application should ship the corresponding upstream license texts and notices for each redistributed third-party library in the legal bundle.
+
+Minimum related first-party legal references:
+
+- NOTICE
+- THIRD_PARTY_LICENSES
+- legal/FFmpeg-LGPLv2.1.txt
+
+This inventory is provided to make the packaged dependency surface explicit for release review and compliance checks.

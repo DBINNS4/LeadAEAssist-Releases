@@ -1,0 +1,16 @@
+LeadAEAssist Legal Notice
+
+LeadAEAssist is a proprietary product. Except where a separate written agreement, end-user license, or applicable law expressly permits otherwise, no license is granted to copy, modify, redistribute, sublicense, sell, publish, or create derivative works from the first-party portions of LeadAEAssist.
+
+This distribution includes:
+- LICENSE — repository-level proprietary notice for first-party LeadAEAssist materials
+- APP-LICENSE.txt — packaged-app proprietary notice for first-party LeadAEAssist materials
+- THIRD_PARTY_LICENSES — consolidated third-party license notices included with this distribution
+- legal/FFMPEG_RUNTIME_DEPENDENCIES.txt — inventory of bundled FFmpeg-side runtime libraries included in packaged macOS builds
+- legal/Electron-MIT.txt — Electron MIT license text
+- legal/FFmpeg-LGPLv2.1.txt — FFmpeg LGPL v2.1 text
+
+Some items included with or referenced by the project may be governed by separate terms and are not part of the first-party proprietary notice, including Adobe CSInterface.js, OpenAI brand assets, Electron, FFmpeg, and any other bundled third-party dependency.
+Packaged macOS builds may also include FFmpeg-side runtime libraries under extra/ffmpeg/lib. Those components remain governed by their own upstream license terms and notices.
+
+This bundle includes the third-party license texts that were provided in the attached archive.
